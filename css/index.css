@@ -1923,4 +1923,21 @@ ul {
     margin-right: 100px;
 }
 
+#mahabbatym {
 
+    position: fixed;
+    left: 15%;
+    top: 23%;
+}
+
+
+#lyrics {
+
+    position: fixed;
+    font-size: small;
+    right: 30%;
+    left: 40%;
+    top: 22%;
+    color: white;
+
+}

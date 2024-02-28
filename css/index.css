@@ -1933,6 +1933,7 @@ ul {
 
 #lyrics {
 
+
     position: fixed;
     font-size: small;
     right: 30%;
@@ -1940,4 +1941,9 @@ ul {
     top: 22%;
     color: white;
 
+}
+
+#perevod {
+
+    top: 20%
 }
